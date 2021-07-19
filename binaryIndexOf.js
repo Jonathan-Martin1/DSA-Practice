@@ -1,3 +1,5 @@
+// time complexcity = O(log n)
+
 const binaryIndexOf = (compare, sortedElements) => {
  if (Array.isArray(sortedElements)) {
   // lowerIndex always starts at 0
