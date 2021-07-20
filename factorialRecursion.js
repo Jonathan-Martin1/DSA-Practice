@@ -1,3 +1,5 @@
+// Bottom Up Recursion
+
 const factorialRecursion = (number) => {
   console.log('Forward Phase', number);
   // Base Case
