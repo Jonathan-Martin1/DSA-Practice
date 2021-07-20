@@ -1,5 +1,5 @@
 // Top Down Recursion
-
+// Time Complexity = O(1)
 const factorialRecursionTopDown = (number, total = 1) => {
   console.log('Forward Phase', number, '*', total);
 
